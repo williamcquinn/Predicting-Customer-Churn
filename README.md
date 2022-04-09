@@ -1,0 +1,2 @@
+# Predicting-Customer-Churn
+S-Mobile: Building a model to predict customer churn for a leading cellphone carrier in Singapore. Using model output to understand the main drivers of churn  and using insights on churn drivers to develop actions/offers/incentives. Quantifying the impact of these actions/offers/incentives on the probability of churn and deciding which actions/offers/incentives to target to which customers. Evaluating the economics of these actions/offers/incentives. 
